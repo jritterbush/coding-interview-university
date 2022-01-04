@@ -1,5 +1,7 @@
 # Coding Interview University
 
+> [Current](file:///Users/johnritterbush/code/coding-interview-university/README.md#algorithmic-complexity--big-o--asymptotic-analysis)
+
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -266,8 +268,8 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - Following videos may help you overcome this insecurity:
-    - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-    - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+    - :eyes: [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+    - :eyes: [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## A Note About Video Resources
 
